@@ -90,7 +90,8 @@ The Power BI dashboard includes:
 
 > Dashboard Screenshot
 
-(Add **business analytics dashboard.png** here.)
+<img width="959" height="540" alt="business analytics dashboard" src="https://github.com/user-attachments/assets/ea9f1d3d-c97c-4046-9dee-ca4377641973" />
+
 
 ---
 
